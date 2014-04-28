@@ -5,4 +5,4 @@ When you finish this course, you’ll have absolutely everything you need to get
 
 View the complete course: 
 
-[Django Fundamentals on Tuts+](http://courses.tutsplus.com/courses/django-unchained)
+[Django Unchained on Tuts+](http://courses.tutsplus.com/courses/django-unchained)
